@@ -1,8 +1,8 @@
-# GitHub Reproducibility Bundle
+# CBE346 Core Lab Enzyme Kinetics
 
-This folder contains the files needed to publish the reproducible analysis archive referenced in the report.
+This repository contains the reproducible analysis materials for the CBE346 core lab enzyme kinetics report.
 
-## Recommended repository contents
+## Repository contents
 
 - `export_cbe346_figures.py`
   - Main analysis script used to regenerate report-facing tables and figures.
@@ -15,10 +15,10 @@ This folder contains the files needed to publish the reproducible analysis archi
 - `analysis_summary.md`
   - Short narrative summary of the current inhibition analysis.
 
-## Repository link placeholder
+## Repository link
 
-The report currently points to:
+The report should point to:
 
-`https://github.com/your-username/cbe346-enzyme-kinetics-report`
+`https://github.com/Atbcalvo/cbe346_enzyme-kinetics`
 
-Replace that placeholder URL in `overleaf/outline.tex` with the final repository URL before submission.
+If the GitHub repository name changes, update the URL in `overleaf/outline.tex` before submission.
