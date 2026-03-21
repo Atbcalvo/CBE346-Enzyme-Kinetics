@@ -1,0 +1,5 @@
+replicate,abs_col,slope_raw_A_per_mM,slope_blank_subtracted_A_per_mM,used_for_rate_rebuild
+rep1_day3_style,4,10.726178238372881,10.321910441762714,False
+rep2_1mM,6,9.18960026764068,8.78533247103051,False
+rep3_5mM,8,8.144537392587571,7.740269595977402,False
+rep4_10mM,10,9.02931352886102,8.625045732250848,True

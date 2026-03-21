@@ -1,0 +1,5 @@
+condition,max_percent_S_depleted,max_percent_I_increase_vs_initial
+0 mM inhibitor,29.9764390506007,nan
+1 mM inhibitor,17.336127805618336,16.952193118270742
+5 mM inhibitor,7.471959684533967,2.952605412890448
+10 mM inhibitor,4.400482185753207,0.9875243160142471
